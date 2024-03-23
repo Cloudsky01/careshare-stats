@@ -1,0 +1,6107 @@
+{
+  "totalNbVehicles": 247,
+  "cachingInfo": {
+    "cachingDurationInSec": 5,
+    "servedFromCache": false,
+    "cachingExpirationUTCDate": null,
+    "hashCode": 0
+  },
+  "vehicles": [
+    {
+      "vehicleId": 3491,
+      "vehicleNb": 3700,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5937372097399,
+        "longitude": -73.5630198822929
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3047,
+      "vehicleNb": 3244,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6408988249829,
+        "longitude": -73.4977381853934
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3045,
+      "vehicleNb": 3242,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5235872197773,
+        "longitude": -73.672751481187
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3066,
+      "vehicleNb": 3263,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5445188431465,
+        "longitude": -73.5361281391798
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2866,
+      "vehicleNb": 3102,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5956155103762,
+        "longitude": -73.5234181567944
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3422,
+      "vehicleNb": 3530,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6108305082828,
+        "longitude": -73.5116431756851
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4495,
+      "vehicleNb": 4032,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5329688323129,
+        "longitude": -73.7117932117482
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3369,
+      "vehicleNb": 3477,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5218288641725,
+        "longitude": -73.6777515377649
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2977,
+      "vehicleNb": 3195,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5912072161479,
+        "longitude": -73.5615548094731
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3331,
+      "vehicleNb": 3439,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4472704961626,
+        "longitude": -73.5870381414304
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2978,
+      "vehicleNb": 3196,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5627204807189,
+        "longitude": -73.5959315081181
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2739,
+      "vehicleNb": 2960,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.599545533221,
+        "longitude": -73.5359382052586
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4407,
+      "vehicleNb": 3951,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6039405002236,
+        "longitude": -73.5464082078947
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4515,
+      "vehicleNb": 4052,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5716038729421,
+        "longitude": -73.6584082011891
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3347,
+      "vehicleNb": 3455,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6419338223615,
+        "longitude": -73.4922114938521
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3795,
+      "vehicleNb": 3843,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4929888315334,
+        "longitude": -73.5583698539831
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3781,
+      "vehicleNb": 3829,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4772772058759,
+        "longitude": -73.5642648463409
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2755,
+      "vehicleNb": 2974,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5487304979311,
+        "longitude": -73.5932265003921
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3793,
+      "vehicleNb": 3841,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5453354919527,
+        "longitude": -73.6770298559193
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3395,
+      "vehicleNb": 3503,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5319688712888,
+        "longitude": -73.7091032076285
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2777,
+      "vehicleNb": 3043,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4600138385218,
+        "longitude": -73.5987881444688
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4457,
+      "vehicleNb": 3994,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6109655407396,
+        "longitude": -73.5375231392909
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3448,
+      "vehicleNb": 3556,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.573255526922,
+        "longitude": -73.6533548357084
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4473,
+      "vehicleNb": 4010,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5676688209554,
+        "longitude": -73.644688199496
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2724,
+      "vehicleNb": 2943,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5082238621881,
+        "longitude": -73.6833081526998
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3465,
+      "vehicleNb": 3573,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5950905517932,
+        "longitude": -73.5195965119549
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3443,
+      "vehicleNb": 3551,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4985905411063,
+        "longitude": -73.6523531983037
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3803,
+      "vehicleNb": 3851,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5727071828298,
+        "longitude": -73.6486898037922
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2924,
+      "vehicleNb": 3142,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5847488760916,
+        "longitude": -73.5980448373136
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4468,
+      "vehicleNb": 4005,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.551948813395,
+        "longitude": -73.6394381945716
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2555,
+      "vehicleNb": 2820,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5384055022164,
+        "longitude": -73.6391014935294
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3724,
+      "vehicleNb": 3772,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5901021460605,
+        "longitude": -73.6418198284811
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2917,
+      "vehicleNb": 3094,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.478895499882,
+        "longitude": -73.5786498682155
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2773,
+      "vehicleNb": 3039,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6157255396164,
+        "longitude": -73.6198765094236
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3334,
+      "vehicleNb": 3442,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5304421914821,
+        "longitude": -73.7095465264765
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4523,
+      "vehicleNb": 4060,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5140255639659,
+        "longitude": -73.6815765353656
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4406,
+      "vehicleNb": 3950,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4410972246262,
+        "longitude": -73.5793864698484
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2551,
+      "vehicleNb": 2816,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4471238966796,
+        "longitude": -73.5862681798237
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2504,
+      "vehicleNb": 2790,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.462250549329,
+        "longitude": -73.5967132043889
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2952,
+      "vehicleNb": 3169,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6049221886993,
+        "longitude": -73.5311481991691
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2807,
+      "vehicleNb": 3067,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4511472101046,
+        "longitude": -73.5815132100886
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2925,
+      "vehicleNb": 3143,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4574888740715,
+        "longitude": -73.6000881776192
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2721,
+      "vehicleNb": 2944,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 3,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5845905419445,
+        "longitude": -73.5291098041862
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3449,
+      "vehicleNb": 3557,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6061505565793,
+        "longitude": -73.5427848788794
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3744,
+      "vehicleNb": 3792,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.513003893813,
+        "longitude": -73.6830198152377
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4465,
+      "vehicleNb": 4002,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4933022308854,
+        "longitude": -73.6480581435845
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2766,
+      "vehicleNb": 2985,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5720988243124,
+        "longitude": -73.6573131893853
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2378,
+      "vehicleNb": 2652,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5535221804012,
+        "longitude": -73.5366931632589
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2915,
+      "vehicleNb": 3092,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5271988141284,
+        "longitude": -73.7037198466279
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4532,
+      "vehicleNb": 4069,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5318938532572,
+        "longitude": -73.7031114881105
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3337,
+      "vehicleNb": 3445,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5267755280285,
+        "longitude": -73.7073798045592
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2769,
+      "vehicleNb": 3035,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5832021635368,
+        "longitude": -73.603306493083
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4466,
+      "vehicleNb": 4003,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5846538253119,
+        "longitude": -73.5302015470478
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4519,
+      "vehicleNb": 4056,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5330338758799,
+        "longitude": -73.7204398152126
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2512,
+      "vehicleNb": 2798,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5887104987107,
+        "longitude": -73.5182431699016
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3796,
+      "vehicleNb": 3844,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6419788331804,
+        "longitude": -73.4931281387607
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2556,
+      "vehicleNb": 2821,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6048822070221,
+        "longitude": -73.5427048317061
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2379,
+      "vehicleNb": 2654,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.609532151513,
+        "longitude": -73.5385481622049
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3336,
+      "vehicleNb": 3444,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5928288629152,
+        "longitude": -73.5272581580014
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2372,
+      "vehicleNb": 2646,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4472505472335,
+        "longitude": -73.5804814816522
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3349,
+      "vehicleNb": 3457,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5812805284622,
+        "longitude": -73.537266485422
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2806,
+      "vehicleNb": 3066,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6235688215003,
+        "longitude": -73.6220781838763
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2711,
+      "vehicleNb": 2937,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.544333854548,
+        "longitude": -73.5368265193352
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2929,
+      "vehicleNb": 3147,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5382588189144,
+        "longitude": -73.6939298677797
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3798,
+      "vehicleNb": 3846,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5300121998598,
+        "longitude": -73.7221631344629
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4513,
+      "vehicleNb": 4050,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4472554925562,
+        "longitude": -73.5940314983532
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4456,
+      "vehicleNb": 3993,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6106355452197,
+        "longitude": -73.518859826503
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2725,
+      "vehicleNb": 2942,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4711171777462,
+        "longitude": -73.6387515490804
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3707,
+      "vehicleNb": 3755,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5715638912649,
+        "longitude": -73.6477281480646
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3725,
+      "vehicleNb": 3773,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5281905608876,
+        "longitude": -73.6133348532517
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3718,
+      "vehicleNb": 3766,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5445304939916,
+        "longitude": -73.670949874963
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4533,
+      "vehicleNb": 4070,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4805488302426,
+        "longitude": -73.5784531449529
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2749,
+      "vehicleNb": 2968,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6060355568706,
+        "longitude": -73.518481551222
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3740,
+      "vehicleNb": 3788,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.570753864162,
+        "longitude": -73.6580148384828
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2521,
+      "vehicleNb": 2807,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5342938435342,
+        "longitude": -73.7175598771716
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3721,
+      "vehicleNb": 3769,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5414605382104,
+        "longitude": -73.5592114808601
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2746,
+      "vehicleNb": 2965,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5311772005534,
+        "longitude": -73.612259874196
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2744,
+      "vehicleNb": 2959,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5689655013447,
+        "longitude": -73.6366381360659
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2926,
+      "vehicleNb": 3144,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5162805473215,
+        "longitude": -73.5611498797407
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3720,
+      "vehicleNb": 3768,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.510327216919,
+        "longitude": -73.6869331580957
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2772,
+      "vehicleNb": 3038,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.597190553763,
+        "longitude": -73.5522332113627
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2729,
+      "vehicleNb": 2948,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5275855551313,
+        "longitude": -73.7073514737271
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3704,
+      "vehicleNb": 3752,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6102038772169,
+        "longitude": -73.5119131567797
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2911,
+      "vehicleNb": 3088,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6008088536365,
+        "longitude": -73.5179964904972
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3711,
+      "vehicleNb": 3759,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5334788711085,
+        "longitude": -73.5547798849416
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3374,
+      "vehicleNb": 3482,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6050272139435,
+        "longitude": -73.5158648049343
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4421,
+      "vehicleNb": 3965,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5649622206678,
+        "longitude": -73.5963481725147
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3270,
+      "vehicleNb": 3378,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5367988590554,
+        "longitude": -73.7000998703739
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4549,
+      "vehicleNb": 4097,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6004321709171,
+        "longitude": -73.5444615109302
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3419,
+      "vehicleNb": 3527,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5849605191415,
+        "longitude": -73.5312248097622
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4390,
+      "vehicleNb": 3934,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5736821657831,
+        "longitude": -73.5349231568091
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2897,
+      "vehicleNb": 3151,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5237588811501,
+        "longitude": -73.6734965485419
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3627,
+      "vehicleNb": 3669,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5747638503612,
+        "longitude": -73.6594098385939
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4598,
+      "vehicleNb": 4140,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.471370562673,
+        "longitude": -73.6475414830855
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4411,
+      "vehicleNb": 3955,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5419554895807,
+        "longitude": -73.6916148699988
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3289,
+      "vehicleNb": 3397,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5266338738683,
+        "longitude": -73.5967098516278
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4577,
+      "vehicleNb": 4128,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5287104903287,
+        "longitude": -73.705391533356
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3288,
+      "vehicleNb": 3396,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5276555440211,
+        "longitude": -73.7160564990552
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3367,
+      "vehicleNb": 3475,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4589054994923,
+        "longitude": -73.6011164694754
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2986,
+      "vehicleNb": 3204,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5866755403079,
+        "longitude": -73.5315981397205
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3630,
+      "vehicleNb": 3672,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4591904841932,
+        "longitude": -73.5998715054275
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3306,
+      "vehicleNb": 3414,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4900538243899,
+        "longitude": -73.6445465453358
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3293,
+      "vehicleNb": 3401,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5778138572134,
+        "longitude": -73.5668665052033
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 6665,
+      "vehicleNb": 5071,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4805938410615,
+        "longitude": -73.5766165023744
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 6670,
+      "vehicleNb": 5076,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5458721851998,
+        "longitude": -73.6745214876369
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3611,
+      "vehicleNb": 3653,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5104171547379,
+        "longitude": -73.6873064880539
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4607,
+      "vehicleNb": 4136,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5879671915554,
+        "longitude": -73.5638648619312
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3246,
+      "vehicleNb": 3354,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4611555375252,
+        "longitude": -73.5992248416135
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3269,
+      "vehicleNb": 3377,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6103238222483,
+        "longitude": -73.5334131569893
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3232,
+      "vehicleNb": 3340,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.590027211848,
+        "longitude": -73.6175615116427
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3104,
+      "vehicleNb": 3276,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5288505519274,
+        "longitude": -73.6999215034787
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4578,
+      "vehicleNb": 4129,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5799971752987,
+        "longitude": -73.6172031852908
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 2998,
+      "vehicleNb": 3216,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6082988383102,
+        "longitude": -73.5163165056852
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3236,
+      "vehicleNb": 3344,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5606638131875,
+        "longitude": -73.585184818865
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3553,
+      "vehicleNb": 3637,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5930688367972,
+        "longitude": -73.5187765103875
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3262,
+      "vehicleNb": 3370,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6170622016828,
+        "longitude": -73.6235448492578
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3280,
+      "vehicleNb": 3388,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6168605330974,
+        "longitude": -73.6238481903262
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3434,
+      "vehicleNb": 3542,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.529222205505,
+        "longitude": -73.7018365168499
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4431,
+      "vehicleNb": 3975,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6101188847208,
+        "longitude": -73.5287615361178
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8024,
+      "vehicleNb": 6127,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5272238760182,
+        "longitude": -73.5901581371724
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 64
+    },
+    {
+      "vehicleId": 8032,
+      "vehicleNb": 6135,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5840688523037,
+        "longitude": -73.5294148216352
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 57
+    },
+    {
+      "vehicleId": 8035,
+      "vehicleNb": 6138,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5347388387628,
+        "longitude": -73.6984265072652
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 25
+    },
+    {
+      "vehicleId": 8041,
+      "vehicleNb": 6144,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4472088891757,
+        "longitude": -73.6038098263563
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 49
+    },
+    {
+      "vehicleId": 4386,
+      "vehicleNb": 3914,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5720854970867,
+        "longitude": -73.6392115479154
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8209,
+      "vehicleNb": 6445,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5905204868377,
+        "longitude": -73.5338581522179
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4391,
+      "vehicleNb": 3935,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5911588525678,
+        "longitude": -73.5263398367122
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3314,
+      "vehicleNb": 3422,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.428723859464,
+        "longitude": -73.6055381747484
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4388,
+      "vehicleNb": 3932,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5730105238983,
+        "longitude": -73.5779265099893
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3229,
+      "vehicleNb": 3337,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5682788558535,
+        "longitude": -73.5769381998103
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 3254,
+      "vehicleNb": 3362,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5725371978376,
+        "longitude": -73.5358781908333
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 6922,
+      "vehicleNb": 5447,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.57882052376,
+        "longitude": -73.6082348005715
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 6939,
+      "vehicleNb": 5464,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.533802161106,
+        "longitude": -73.7185765181827
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 4561,
+      "vehicleNb": 4109,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5361138899448,
+        "longitude": -73.6471498805788
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8449,
+      "vehicleNb": 6500,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5436271763087,
+        "longitude": -73.6695464929489
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8453,
+      "vehicleNb": 6506,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.519170543646,
+        "longitude": -73.6205181440958
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8514,
+      "vehicleNb": 6537,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5094788845196,
+        "longitude": -73.6726248306332
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8578,
+      "vehicleNb": 6572,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.475653882728,
+        "longitude": -73.6280932050846
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8530,
+      "vehicleNb": 6553,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.455965547026,
+        "longitude": -73.6033181439282
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8579,
+      "vehicleNb": 6573,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5331088939115,
+        "longitude": -73.7222231488882
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8577,
+      "vehicleNb": 6571,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6409822249175,
+        "longitude": -73.4917965058361
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8591,
+      "vehicleNb": 6585,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5287871847409,
+        "longitude": -73.7106298036162
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8602,
+      "vehicleNb": 6596,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5332222172396,
+        "longitude": -73.70981315481
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8571,
+      "vehicleNb": 6565,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4495155050537,
+        "longitude": -73.6048765073281
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8890,
+      "vehicleNb": 6872,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4446605392162,
+        "longitude": -73.5804398235945
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9178,
+      "vehicleNb": 7155,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5847338724853,
+        "longitude": -73.5980831426101
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8888,
+      "vehicleNb": 6870,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.557423872414,
+        "longitude": -73.6351481689942
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9248,
+      "vehicleNb": 7225,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5453088375013,
+        "longitude": -73.6988348735779
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9175,
+      "vehicleNb": 7152,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5507588346305,
+        "longitude": -73.5974431843185
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9252,
+      "vehicleNb": 7229,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6029972008635,
+        "longitude": -73.5111248388055
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9271,
+      "vehicleNb": 7248,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6399038931006,
+        "longitude": -73.4979715375721
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9329,
+      "vehicleNb": 7256,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.557488832162,
+        "longitude": -73.6446364831547
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8960,
+      "vehicleNb": 6942,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5600054985283,
+        "longitude": -73.6096314770631
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8957,
+      "vehicleNb": 6939,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5382188372373,
+        "longitude": -73.7008114939359
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8931,
+      "vehicleNb": 6913,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5691221591112,
+        "longitude": -73.5261965061714
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9437,
+      "vehicleNb": 7390,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4369255515187,
+        "longitude": -73.5891131653293
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9419,
+      "vehicleNb": 7372,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5735638133132,
+        "longitude": -73.6611215069991
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9436,
+      "vehicleNb": 7389,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6105705016527,
+        "longitude": -73.5105914983196
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9428,
+      "vehicleNb": 7381,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5914571644944,
+        "longitude": -73.6475765194399
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9462,
+      "vehicleNb": 7415,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.440927155815,
+        "longitude": -73.5836864698903
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 7517,
+      "vehicleNb": 6001,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5856572229163,
+        "longitude": -73.5599415446087
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8673,
+      "vehicleNb": 6667,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.639108869604,
+        "longitude": -73.4915432047284
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 7083,
+      "vehicleNb": 5608,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4603771940155,
+        "longitude": -73.5989481549965
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8675,
+      "vehicleNb": 6669,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5528838146711,
+        "longitude": -73.646563147371
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9512,
+      "vehicleNb": 7455,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5932271709443,
+        "longitude": -73.511806538974
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9516,
+      "vehicleNb": 7459,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6181688643318,
+        "longitude": -73.6194915286202
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9576,
+      "vehicleNb": 7517,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5761188687951,
+        "longitude": -73.6569132049757
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9583,
+      "vehicleNb": 7524,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4332355025559,
+        "longitude": -73.6024365353739
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9575,
+      "vehicleNb": 7516,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5567222233165,
+        "longitude": -73.5655898575621
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8884,
+      "vehicleNb": 6860,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5947938324282,
+        "longitude": -73.5209281448795
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8967,
+      "vehicleNb": 6950,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4684388244716,
+        "longitude": -73.6457031641265
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8669,
+      "vehicleNb": 6663,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6239222025294,
+        "longitude": -73.6118198242902
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 6844,
+      "vehicleNb": 5369,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5608172020118,
+        "longitude": -73.6592131991502
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9636,
+      "vehicleNb": 7577,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5687872182685,
+        "longitude": -73.5945565407551
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 7100,
+      "vehicleNb": 5625,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4697988720473,
+        "longitude": -73.6463015481794
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 7906,
+      "vehicleNb": 6040,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5830072004737,
+        "longitude": -73.5651548367981
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 6730,
+      "vehicleNb": 5255,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6074872186457,
+        "longitude": -73.5124031628273
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8974,
+      "vehicleNb": 6957,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5244121666674,
+        "longitude": -73.585249862432
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8990,
+      "vehicleNb": 6973,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4475271500315,
+        "longitude": -73.5887248317647
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 7905,
+      "vehicleNb": 6039,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6096955148018,
+        "longitude": -73.5170398639114
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9695,
+      "vehicleNb": 7634,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        14,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.606468817435,
+        "longitude": -73.5217565283499
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9691,
+      "vehicleNb": 7630,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        14,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5383538696941,
+        "longitude": -73.7049148545342
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8821,
+      "vehicleNb": 6819,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5455888768795,
+        "longitude": -73.6662781375244
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10370,
+      "vehicleNb": 8110,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4514638783987,
+        "longitude": -73.5727748247868
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10534,
+      "vehicleNb": 8246,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.557672228199,
+        "longitude": -73.5894448372297
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10691,
+      "vehicleNb": 8387,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5319988785014,
+        "longitude": -73.6282048520322
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 25
+    },
+    {
+      "vehicleId": 10823,
+      "vehicleNb": 8512,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.588135500167,
+        "longitude": -73.5572215332764
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 40
+    },
+    {
+      "vehicleId": 10816,
+      "vehicleNb": 8505,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6107571666318,
+        "longitude": -73.5282898026188
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10839,
+      "vehicleNb": 8528,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.603458876079,
+        "longitude": -73.6215365453065
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 87
+    },
+    {
+      "vehicleId": 10115,
+      "vehicleNb": 7873,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5550638638142,
+        "longitude": -73.5304415209298
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10834,
+      "vehicleNb": 8523,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5885905536792,
+        "longitude": -73.5585831734136
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 37
+    },
+    {
+      "vehicleId": 10829,
+      "vehicleNb": 8518,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.529970541802,
+        "longitude": -73.7000231759617
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 25
+    },
+    {
+      "vehicleId": 8661,
+      "vehicleNb": 6655,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5579455620548,
+        "longitude": -73.5739998399057
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10270,
+      "vehicleNb": 8010,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4926055271106,
+        "longitude": -73.6113248729199
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10112,
+      "vehicleNb": 7870,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5371138509689,
+        "longitude": -73.6684814883577
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10827,
+      "vehicleNb": 8516,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6187671645657,
+        "longitude": -73.6163214929175
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 16
+    },
+    {
+      "vehicleId": 10428,
+      "vehicleNb": 8129,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5891205414039,
+        "longitude": -73.5415048784771
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10264,
+      "vehicleNb": 8004,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5471955200405,
+        "longitude": -73.6158948540564
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10279,
+      "vehicleNb": 8019,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5891571703199,
+        "longitude": -73.6485898076898
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10311,
+      "vehicleNb": 8051,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.532683847612,
+        "longitude": -73.7059331719258
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10168,
+      "vehicleNb": 7926,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5774971889193,
+        "longitude": -73.5824664839132
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10138,
+      "vehicleNb": 7896,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5910305256333,
+        "longitude": -73.5145382011514
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10240,
+      "vehicleNb": 7980,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5001988606479,
+        "longitude": -73.6495998269975
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10165,
+      "vehicleNb": 7923,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5704838830674,
+        "longitude": -73.5885298687017
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11126,
+      "vehicleNb": 8829,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4461488299073,
+        "longitude": -73.597628172917
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 35
+    },
+    {
+      "vehicleId": 10125,
+      "vehicleNb": 7883,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5487154943248,
+        "longitude": -73.5601781657295
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10166,
+      "vehicleNb": 7924,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6030904914435,
+        "longitude": -73.6263982166663
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10516,
+      "vehicleNb": 8217,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6064621957317,
+        "longitude": -73.5199964963646
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10478,
+      "vehicleNb": 8179,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.554247215008,
+        "longitude": -73.6677698647957
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11117,
+      "vehicleNb": 8820,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5974138476581,
+        "longitude": -73.517253183342
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 25
+    },
+    {
+      "vehicleId": 9827,
+      "vehicleNb": 7766,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6057521647312,
+        "longitude": -73.5236631598182
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 6463,
+      "vehicleNb": 5039,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5866322058696,
+        "longitude": -73.5094765375868
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10325,
+      "vehicleNb": 8065,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6224971952057,
+        "longitude": -73.6206631510172
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11113,
+      "vehicleNb": 8816,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5507321801791,
+        "longitude": -73.6723998603575
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 35
+    },
+    {
+      "vehicleId": 11099,
+      "vehicleNb": 8802,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5923855440672,
+        "longitude": -73.6456581533075
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 69
+    },
+    {
+      "vehicleId": 11103,
+      "vehicleNb": 8806,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4274005246233,
+        "longitude": -73.5997698329445
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 31
+    },
+    {
+      "vehicleId": 11125,
+      "vehicleNb": 8828,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5840688523037,
+        "longitude": -73.5331881867136
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 86
+    },
+    {
+      "vehicleId": 9763,
+      "vehicleNb": 7702,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6422322181072,
+        "longitude": -73.4952798570718
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9768,
+      "vehicleNb": 7707,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5299838690277,
+        "longitude": -73.6160048246233
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9882,
+      "vehicleNb": 7821,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5932905381307,
+        "longitude": -73.561286504759
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9888,
+      "vehicleNb": 7827,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6109255590625,
+        "longitude": -73.5169448131318
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9890,
+      "vehicleNb": 7829,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5517071631324,
+        "longitude": -73.6541248811341
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9891,
+      "vehicleNb": 7830,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5335605108435,
+        "longitude": -73.7044282012478
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11100,
+      "vehicleNb": 8803,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5061155621344,
+        "longitude": -73.6758231971679
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 74
+    },
+    {
+      "vehicleId": 9693,
+      "vehicleNb": 7632,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        14,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5535621620783,
+        "longitude": -73.6538798781104
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9704,
+      "vehicleNb": 7643,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        14,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5308038705952,
+        "longitude": -73.6956481578882
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 8983,
+      "vehicleNb": 6966,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5730538583366,
+        "longitude": -73.5949131907264
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10344,
+      "vehicleNb": 8084,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6411238790776,
+        "longitude": -73.4967414933114
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11130,
+      "vehicleNb": 8833,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5365988668505,
+        "longitude": -73.7138948062796
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 40
+    },
+    {
+      "vehicleId": 10356,
+      "vehicleNb": 8096,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4620622079693,
+        "longitude": -73.5983532075238
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10354,
+      "vehicleNb": 8094,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6415255398679,
+        "longitude": -73.4911548711639
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9721,
+      "vehicleNb": 7660,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6128821466724,
+        "longitude": -73.5454198138966
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10195,
+      "vehicleNb": 7953,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6129805502133,
+        "longitude": -73.532254861818
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10509,
+      "vehicleNb": 8210,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.6097505000853,
+        "longitude": -73.5340915043965
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10739,
+      "vehicleNb": 8435,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5866205550245,
+        "longitude": -73.5096498753401
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11142,
+      "vehicleNb": 8845,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.4523754941656,
+        "longitude": -73.5766998184899
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 25
+    },
+    {
+      "vehicleId": 11208,
+      "vehicleNb": 8887,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5321204999135,
+        "longitude": -73.7189131354059
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 54
+    },
+    {
+      "vehicleId": 11143,
+      "vehicleNb": 8846,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5452904811338,
+        "longitude": -73.6747298617447
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 35
+    },
+    {
+      "vehicleId": 10856,
+      "vehicleNb": 8544,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.557773816863,
+        "longitude": -73.5471298059212
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10855,
+      "vehicleNb": 8543,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5583288664775,
+        "longitude": -73.6517381342638
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11215,
+      "vehicleNb": 8895,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5432105119122,
+        "longitude": -73.695624856198
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 24
+    },
+    {
+      "vehicleId": 10801,
+      "vehicleNb": 8490,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5323255212601,
+        "longitude": -73.7255648459637
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 10357,
+      "vehicleNb": 8097,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5674138434671,
+        "longitude": -73.5950148632094
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 9770,
+      "vehicleNb": 7709,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 1,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        7,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5948872068272,
+        "longitude": -73.5505365465638
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11312,
+      "vehicleNb": 8971,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 2,
+      "vehicleTypeId": 4,
+      "vehicleBodyTypeId": 1,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5659871597628,
+        "longitude": -73.5858081809887
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": 34
+    },
+    {
+      "vehicleId": 11358,
+      "vehicleNb": 9017,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5384454838935,
+        "longitude": -73.7013898452407
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11352,
+      "vehicleNb": 9011,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [
+        2
+      ],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5846571780731,
+        "longitude": -73.6532765487347
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    },
+    {
+      "vehicleId": 11359,
+      "vehicleNb": 9018,
+      "cityId": 59,
+      "vehiclePropulsionTypeId": 1,
+      "vehicleTypeId": 3,
+      "vehicleBodyTypeId": 2,
+      "vehicleTransmissionTypeId": 2,
+      "vehicleTireTypeId": 2,
+      "vehiclePromotions": [],
+      "vehicleAccessories": [
+        5,
+        8,
+        13,
+        16,
+        15,
+        22
+      ],
+      "vehicleLocation": {
+        "latitude": 45.5579255293067,
+        "longitude": -73.5740915379241
+      },
+      "satisfiesFilters": true,
+      "energyLevelPercentage": null
+    }
+  ]
+}
