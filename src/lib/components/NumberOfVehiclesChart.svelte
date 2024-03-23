@@ -2,20 +2,22 @@
     import { onMount } from 'svelte';
     import { Chart } from 'chart.js/auto';
     import GeneralAPIService from '$lib/services/GeneralAPIService';
-
+  
     let chart;
-
+    let isLoading = true; // Loading state
+  
     onMount(async () => {
-        const apiService = new GeneralAPIService();
-        const data = await apiService.getNumberOfVehicles()
-
-        const labels = data.map(item => item.timestamp);
-        const vehicleCounts = data.map(item => item.value);
-
-        // @ts-ignore
-        const ctx = document.getElementById('chart').getContext('2d');
-        chart = new Chart(ctx, {
-            type: 'line',
+      const apiService = new GeneralAPIService();
+      const data = await apiService.getNumberOfVehicles();
+      const labels = data.map(item => item.timestamp);
+      const vehicleCounts = data.map(item => item.value);
+  
+      // Since this is async, it's okay if the canvas isn't immediately available
+      // because this code waits for the data before trying to access the canvas.
+      // @ts-ignore
+      const ctx = document.getElementById('chart').getContext('2d');
+      chart = new Chart(ctx, {
+        type: 'line',
             data: {
                 labels: labels,
                 datasets: [{
@@ -57,12 +59,28 @@
                 }
             }
         });
-    });
-</script>
+      });
+  
+      isLoading = false; // Data loaded, update loading state
+  </script>
+  
 <style>
-    #chart {
-        background-color: #0f0e0e;
-    }
-</style>
+#chart {
+    background-color: #0f0e0e;
+    /* Initially hide the canvas to avoid showing a black square */
+    display: none;
+}
 
-<canvas id="chart" width=100% height=100%></canvas>
+/* Once the content is loaded, display the canvas */
+:global(.loaded) {
+    display: block !important;
+}
+</style>
+  
+{#if isLoading}
+<p class="is-white">Loading...</p>
+{:else}
+<!-- Add a class to make the chart visible after loading -->
+<canvas id="chart" class="loaded"></canvas>
+{/if}
+  

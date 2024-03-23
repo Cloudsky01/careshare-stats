@@ -15,10 +15,7 @@
 <style>
     .usage-number {
         display: flex;
-        justify-content: center;
-        align-items: center;
         height: 100%;
         font-weight: bold;
-        display: inline-block;
     }
 </style>
