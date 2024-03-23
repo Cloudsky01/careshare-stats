@@ -7,17 +7,17 @@
         <a class="navbar-item" href="/">
             <img class="navbar-logo" src="logo.png" alt="Logo">
         </a>
-        <a class="navbar-item" href="/about">
-            About
-        </a>
-        <a class="navbar-item" href="/contact">
-            Contact
-        </a>
         <a class="navbar-item" href="/map">
             Map
         </a>
         <a class="navbar-item" href="/chart">
             Chart
+        </a>
+        <a class="navbar-item" href="/about">
+            About
+        </a>
+        <a class="navbar-item" href="/contact">
+            Contact
         </a>
     </div>
 </nav>
