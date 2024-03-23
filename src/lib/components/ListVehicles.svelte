@@ -15,7 +15,7 @@
     });
 </script>
 
-<div class="columns is-multiline" style="max-height: 400px; overflow-y: auto;">
+<div class="columns is-multiline" style="max-height: 800px; overflow-y: auto;">
     {#if vehicles.length > 0}
         {#each vehicles as vehicle}
             <div class="column is-12">
