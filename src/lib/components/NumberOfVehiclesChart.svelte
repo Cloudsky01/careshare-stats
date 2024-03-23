@@ -37,7 +37,7 @@
                             display: false, // Hide grid lines
                         },
                         ticks: {
-                            color: 'white', // White tick labels
+                            display: false, // Hide tick labels
                         }
                     },
                     x: {
@@ -45,7 +45,7 @@
                             display: false, // Hide grid lines
                         },
                         ticks: {
-                            color: 'white', // White tick labels
+                            display: false, // Hide tick labels
                         }
                     }
                 },
@@ -66,12 +66,10 @@
   
 <style>
 #chart {
-    background-color: #0f0e0e;
-    /* Initially hide the canvas to avoid showing a black square */
+    background-color: --var(color-background);
     display: none;
 }
 
-/* Once the content is loaded, display the canvas */
 :global(.loaded) {
     display: block !important;
 }
@@ -80,7 +78,5 @@
 {#if isLoading}
 <p class="is-white">Loading...</p>
 {:else}
-<!-- Add a class to make the chart visible after loading -->
 <canvas id="chart" class="loaded"></canvas>
 {/if}
-  
