@@ -1,7 +1,7 @@
 <script lang="ts">
     import { onMount } from 'svelte';
     import type { Vehicle } from "$lib/models/Vehicle";
-	import ApiVehicleService from '$lib/services/ApiVehicleService';
+    import ApiVehicleService from '$lib/services/ApiVehicleService';
 
     let vehicles: Vehicle[] = [];
     const api = new ApiVehicleService();
@@ -15,16 +15,25 @@
     });
 </script>
 
-{#if vehicles.length > 0}
-    <ul>
+<div class="columns is-multiline" style="max-height: 400px; overflow-y: auto;">
+    {#if vehicles.length > 0}
         {#each vehicles as vehicle}
-            <li>
-                <span>{vehicle.name}</span>
-                <span>{vehicle.id}</span>
-                <span>Last Used: {vehicle.lastUsed}</span>
-            </li>
+            <div class="column is-12">
+                <div class="box">
+                    <span>{vehicle.name}</span>
+                    <br>
+                    <span>{vehicle.id}</span>
+                    <br>
+                    <span>Last Used: {vehicle.lastUsed}</span>
+                </div>
+            </div>
         {/each}
-    </ul>
-{:else}
-    <p>No vehicles found.</p>
-{/if}
+    {:else}
+        <p>No vehicles found.</p>
+    {/if}
+</div>
+
+<style>
+  /* Optional: Additional styling for the scroll and columns if needed */
+</style>
+
