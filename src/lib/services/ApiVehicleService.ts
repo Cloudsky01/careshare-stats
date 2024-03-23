@@ -1,5 +1,6 @@
 import ApiService from "$lib/services/ApiService";
 import type { Vehicle } from "$lib/models/Vehicle";
+import flex_vehicle from "$lib/data/flex_vehicle.json";
 
 class ApiVehicleService extends ApiService {
     constructor() {
@@ -7,7 +8,7 @@ class ApiVehicleService extends ApiService {
     }
 
     public async getVehicles(): Promise<Vehicle[]> {
-        return this.mocked_get<Vehicle[]>('');
+        return Promise.resolve(flex_vehicle['vehicles'] as unknown as Vehicle[]);
     }
 
 }
