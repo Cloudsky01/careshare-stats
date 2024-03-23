@@ -37,11 +37,11 @@
     },
     {
         "timestamp" : "2019-01-01T00:09:00Z",
-        "value" : 10
+        "value" : 2
     },
     {
         "timestamp" : "2019-01-01T00:10:00Z",
-        "value" : 11
+        "value" : 4
     },
     {
         "timestamp" : "2019-01-01T00:11:00Z",
@@ -53,14 +53,14 @@
     },
     {
         "timestamp" : "2019-01-01T00:13:00Z",
-        "value" : 14
+        "value" : 134
     },
     {
         "timestamp" : "2019-01-01T00:14:00Z",
-        "value" : 15
+        "value" : 14
     },
     {
         "timestamp" : "2019-01-01T00:15:00Z",
-        "value" : 16
+        "value" : 5
     }
 ]
