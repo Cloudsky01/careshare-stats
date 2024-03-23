@@ -6,6 +6,7 @@ export interface Vehicle {
       lat: number;
       lng: number;
     };
+    lastUsed: Date;
     status: 'available' | 'unavailable';
   }
   
