@@ -1,6 +1,7 @@
 <script>
-	import UsageOfNetworkTable from '$lib/components/UsageOfNetworkTable.svelte';
-    import 'bulma/css/bulma.css';
+	import UsageOfNetworkCounter from '$lib/components/UsageOfNetworkCounter.svelte';
+  import UsageOfNetworkTable from '$lib/components/UsageOfNetworkTable.svelte';
+  import 'bulma/css/bulma.css';
 </script>
 
 <div class="content">
@@ -19,9 +20,9 @@
     </div>
     <div class="column">
       <div class="health-container">
-        <h1>GENERAL HEALTH SCORE</h1>
+        <h2>GENERAL HEALTH SCORE</h2>
         <p>Overall health score of the network</p>
-        <p>100%</p>
+        <UsageOfNetworkCounter />
       </div>
     </div>
   </div>
