@@ -3,18 +3,13 @@ import type { Vehicle } from "$lib/models/Vehicle";
 
 class ApiVehicleService extends ApiService {
     constructor() {
-        super('/api/vehicles');
+        super('https://restapifrontoffice.reservauto.net/api/v2/Vehicle/FreeFloatingAvailability?CityId=59');
     }
 
     public async getVehicles(): Promise<Vehicle[]> {
-        return this.get<Vehicle[]>('');
+        return this.mocked_get<Vehicle[]>('');
     }
 
-    public async getVehicleById(id: number): Promise<Vehicle> {
-        return this.get<Vehicle>(`/${id}`);
-    }
-
-    
 }
 
 
