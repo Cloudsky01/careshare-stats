@@ -14,6 +14,7 @@ class GeneralAPIService extends ApiService {
     }
 
     public async getNumberOfVehicles(): Promise<TimeSeries[]>{
+        await new Promise(resolve => setTimeout(resolve, 1000));
         return Promise.resolve(timestamp as unknown as TimeSeries[]);
         // return super.get<TimeSeries[]>('/number-of-vehicles');
     }
