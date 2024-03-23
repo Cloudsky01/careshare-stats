@@ -1,7 +1,7 @@
-import axios, { AxiosRequestConfig, AxiosResponse } from 'axios';
+import axios, { type AxiosRequestConfig, type AxiosResponse } from 'axios';
 
 class ApiService {
-    private baseUrl: string;
+    private baseUrl = 'https://your-api-gateway-url.amazonaws.com/prod';
 
     constructor(baseUrl: string) {
         this.baseUrl = baseUrl;
@@ -14,6 +14,19 @@ class ApiService {
         } catch (error) {
             throw new Error(`Request failed: ${error.message}`);
         }
+    }
+
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    protected async mocked_get<T>(_url: string): Promise<T> {
+        return new Promise<T>((resolve) => {
+            setTimeout(() => {
+                resolve([
+                    { id: 1, name: 'Car 1', lastUsed: new Date() },
+                    { id: 2, name: 'Car 2', lastUsed: new Date() },
+                    { id: 3, name: 'Car 3', lastUsed: new Date() },
+                ] as unknown as T);
+            }, 1000);
+        });
     }
 
     public async get<T>(url: string): Promise<T> {
@@ -32,7 +45,6 @@ class ApiService {
         };
         return this.request<T>(config);
     }
-
 }
 
 export default ApiService ;
