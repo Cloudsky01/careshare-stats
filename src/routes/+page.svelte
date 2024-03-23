@@ -1,12 +1,10 @@
 <script>
-    import ListVehicles from '$lib/components/ListVehicles.svelte';
-	import Map from '$lib/components/Map.svelte';
-  </script>
+  import ListVehicles from '$lib/components/ListVehicles.svelte';
+  import NumberOfVehicles from '$lib/components/NumberOfVehicles.svelte';
+</script>
   
   <div class="container">
-    <div id="map" style="height: 80vh;">
-        <!-- <Map /> -->
-    </div>
+    <NumberOfVehicles />
     <ListVehicles />
   </div>
   
