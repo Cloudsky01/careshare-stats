@@ -16,7 +16,7 @@
         // @ts-ignore
         const ctx = document.getElementById('chart').getContext('2d');
         chart = new Chart(ctx, {
-            type: 'bar',
+            type: 'line',
             data: {
                 labels: labels,
                 datasets: [{
@@ -32,6 +32,19 @@
                 scales: {
                     y: {
                         beginAtZero: true
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                layout: {
+                    padding: {
+                        left: 10,
+                        right: 10,
+                        top: 10,
+                        bottom: 10
                     }
                 }
             }

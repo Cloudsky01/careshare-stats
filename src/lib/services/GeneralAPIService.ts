@@ -1,4 +1,5 @@
 import ApiService from "$lib/services/ApiService";
+import timestamp from "$lib/data/timestamp.json";
 
 // Define the TimeSeries interface which represents the data 
 interface TimeSeries {
@@ -13,13 +14,7 @@ class GeneralAPIService extends ApiService {
     }
 
     public async getNumberOfVehicles(): Promise<TimeSeries[]>{
-        return Promise.resolve([
-            { timestamp: new Date(1), value: 5 },
-            { timestamp: new Date(2), value: 6 },
-            { timestamp: new Date(3), value: 7 },
-            { timestamp: new Date(4), value: 8 },
-            { timestamp: new Date(5), value: 9 },
-        ]);
+        return Promise.resolve(timestamp as unknown as TimeSeries[]);
         // return super.get<TimeSeries[]>('/number-of-vehicles');
     }
 
