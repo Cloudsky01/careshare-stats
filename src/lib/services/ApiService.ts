@@ -24,6 +24,9 @@ class ApiService {
                     { id: 1, name: 'Car 1', lastUsed: new Date() },
                     { id: 2, name: 'Car 2', lastUsed: new Date() },
                     { id: 3, name: 'Car 3', lastUsed: new Date() },
+                    { id: 4, name: 'Car 4', lastUsed: new Date() },
+                    { id: 5, name: 'Car 5', lastUsed: new Date() },
+                    { id: 6, name: 'Car 6', lastUsed: new Date() }
                 ] as unknown as T);
             }, 1000);
         });
