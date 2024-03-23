@@ -12,7 +12,7 @@
         await import('leaflet/dist/leaflet.css');
 
         // Initialize the map
-        map = L.map('map').setView([51.505, -0.09], 13);
+        map = L.map('map').setView([45.5017, -73.5673], 13);
 
         // Add a tile layer to the map
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -23,8 +23,9 @@
 </script>
 
 <style>
-    #map {
-        height: 400px;
+    #map{
+        width: 100%;
+        height: 500px;
     }
 </style>
 
