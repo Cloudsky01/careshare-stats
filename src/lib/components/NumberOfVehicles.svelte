@@ -7,9 +7,8 @@
 
     onMount(async () => {
         const apiService = new GeneralAPIService();
-        const data = await apiService.getNumberOfVehicles();
+        const data = await apiService.getNumberOfVehicles()
 
-        // Extract the necessary data from the API response
         const labels = data.map(item => item.timestamp);
         const vehicleCounts = data.map(item => item.value);
 
@@ -22,34 +21,48 @@
                 datasets: [{
                     label: 'Number of Vehicles',
                     data: vehicleCounts,
-                    backgroundColor: 'rgba(54, 162, 235, 0.5)',
-                    borderColor: 'rgba(54, 162, 235, 1)',
-                    borderWidth: 1
+                    backgroundColor: 'rgba(0, 255, 0, 0.5)', // Light green with some transparency
+                    borderColor: 'rgba(0, 255, 0, 1)', // Solid green
+                    borderWidth: 2
                 }]
             },
             options: {
                 responsive: true,
                 scales: {
                     y: {
-                        beginAtZero: true
+                        beginAtZero: true,
+                        grid: {
+                            display: false, // Hide grid lines
+                        },
+                        ticks: {
+                            color: 'white', // White tick labels
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false, // Hide grid lines
+                        },
+                        ticks: {
+                            color: 'white', // White tick labels
+                        }
                     }
                 },
                 plugins: {
                     legend: {
-                        display: false
+                        display: false, // Hide legend
                     }
                 },
                 layout: {
-                    padding: {
-                        left: 10,
-                        right: 10,
-                        top: 10,
-                        bottom: 10
-                    }
+                    padding: 20, // Minimal padding around
                 }
             }
         });
     });
 </script>
+<style>
+    #chart {
+        background-color: black;
+    }
+</style>
 
-<canvas id="chart"></canvas>
+<canvas id="chart" width="400" height="200"></canvas>
