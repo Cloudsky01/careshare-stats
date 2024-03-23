@@ -61,8 +61,8 @@
 </script>
 <style>
     #chart {
-        background-color: black;
+        background-color: #0f0e0e;
     }
 </style>
 
-<canvas id="chart" width="400" height="200"></canvas>
+<canvas id="chart" width=100% height=100%></canvas>
