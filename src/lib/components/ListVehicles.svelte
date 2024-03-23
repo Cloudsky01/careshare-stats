@@ -14,26 +14,34 @@
         }
     });
 </script>
-
-<div class="columns is-multiline" style="max-height: 800px; overflow-y: auto;">
-    {#if vehicles.length > 0}
-        {#each vehicles as vehicle}
-            <div class="column is-12">
-                <div class="box">
-                    <span>{vehicle.name}</span>
-                    <br>
-                    <span>{vehicle.id}</span>
-                    <br>
-                    <span>Last Used: {vehicle.lastUsed}</span>
-                </div>
-            </div>
-        {/each}
-    {:else}
-        <p>No vehicles found.</p>
-    {/if}
+<div class="content">
+    <h1>Flex Vehicle List</h1>
+    <div class="columns is-multiline" style="max-height: 1200px; overflow-y: auto; margin: 20px">
+            {#if vehicles.length > 0}
+                {#each vehicles as vehicle}
+                    <div class="column is-12">
+                        <div class="box">
+                            <span>{vehicle.vehicleId}</span>
+                            <br>
+                            <span>Latitude: {vehicle.vehicleLocation.lat}</span>
+                            <br>
+                            <span>Longitude: {vehicle.vehicleLocation.lng}</span>
+                            <br>
+                            <span>Last Used: {vehicle.lastUsed}</span>
+                        </div>
+                    </div>
+                {/each}
+            {:else}
+                <p>No vehicles found.</p>
+            {/if}
+    </div>
 </div>
 
 <style>
-  /* Optional: Additional styling for the scroll and columns if needed */
+  @media (max-width: 768px) {
+        .columns {
+            max-height: 50px;
+        }
+    }
 </style>
 
