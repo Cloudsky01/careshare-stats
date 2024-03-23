@@ -23,6 +23,22 @@ class GeneralAPIService extends ApiService {
         return super.get<number>('/estimated-usage');
     }
 
+    public async getEstimatedUsageOfNetworkByHour(): Promise<TimeSeries[]>{
+        return super.get<TimeSeries[]>('/estimated-usage-by-hour');
+    }
+
+    public async getEstimatedUsageOfNetworkByDay(): Promise<TimeSeries[]>{
+        return super.get<TimeSeries[]>('/estimated-usage-by-day');
+    }
+
+    public async getEstimatedUsageOfNetworkByWeek(): Promise<TimeSeries[]>{
+        return super.get<TimeSeries[]>('/estimated-usage-by-week');
+    }
+
+    public async getEstimatedUsageOfNetworkByMonth(): Promise<TimeSeries[]>{
+        return super.get<TimeSeries[]>('/estimated-usage-by-month');
+    }
+
 }
 
 export default GeneralAPIService;
